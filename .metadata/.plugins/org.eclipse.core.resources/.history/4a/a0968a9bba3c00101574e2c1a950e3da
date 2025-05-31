@@ -1,0 +1,22 @@
+package com.dheerajpatel.main;
+
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.dheerajpatel.bean.Employee;
+import com.dheerajpatel.config.AppConfig;
+
+
+
+public class App 
+{
+    public static <ApplicationContext> void main( String[] args )
+    {
+    	ApplicationContext context = (ApplicationContext) new AnnotationConfigApplicationContext(AppConfig.class);
+
+		Employee emp = (Employee) ((BeanFactory) context).getBean(Employee.class);
+
+		emp.showInfo();
+    }
+}

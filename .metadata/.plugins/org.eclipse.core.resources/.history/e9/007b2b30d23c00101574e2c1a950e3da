@@ -1,0 +1,5 @@
+package com.dheerajpatel.main.config;
+
+public class SpringConfig {
+
+}

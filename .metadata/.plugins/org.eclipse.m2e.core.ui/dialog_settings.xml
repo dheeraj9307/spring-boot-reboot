@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="E:\12thFebSpringProject\spring-bean-xml"/>
+			<item value="E:\12thFebSpringProject\spring-bean-di-constructor\src\main\java\com\dheerajpatel\main\config\SpringConfig.java"/>
+			<item value="E:\12thFebSpringProject\springusingfield\src\main\java\com\dheerajpatel\springusingfield\config\SpringConfig.java"/>
+			<item value="E:\12thFebSpringProject\spring-bean-java\src\main\java\com\dheerajpatel\springbean\User.java"/>
+			<item value="E:\12thFebSpringProject\spring-bean-java\src\main\java\com\dheerajpatel\springbean\SpringConfig.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.dheerajpatel.main"/>
+			<item value="com.dheerajpatel"/>
+			<item value="com.dheerajpatel.spring"/>
+			<item value="com.dheerajpatel.springbean"/>
+			<item value="com.dheerajpatel.springdatajdbc"/>
+			<item value="com.dheerajpatel.springusingfield"/>
+			<item value="com.dheerajpatel.sprinbean"/>
+			<item value="com.dheerajpatel.spring.beanproject"/>
+			<item value="com.dheerajpatel.spring.spring_bean_java"/>
+		</list>
+		<list key="groupId">
+			<item value="com.dheerajpatel.spring"/>
+		</list>
+		<list key="artifactId">
+			<item value="spring-data-hibernate"/>
+			<item value="spring-data-jdbc"/>
+			<item value="spring-bean-di-field"/>
+			<item value="spring-bean-di-setter"/>
+			<item value="spring-bean-constructor"/>
+			<item value="spring-bean-annotation"/>
+			<item value="spring-bean-xml"/>
+			<item value="springdatajdbc"/>
+			<item value="springusingfield"/>
+			<item value="sprinbean"/>
+			<item value="beanproject"/>
+			<item value="spring-bean-java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\12thFebSpringProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

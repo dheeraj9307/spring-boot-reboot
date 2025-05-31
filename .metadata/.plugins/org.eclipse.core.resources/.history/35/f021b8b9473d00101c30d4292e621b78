@@ -1,0 +1,5 @@
+package com.dheerajpatel.main.bean.payment;
+
+public class Payment {
+
+}

@@ -1,0 +1,5 @@
+package com.dheerajpatel.main.jdbc.configs;
+
+public class SpringJdbcConfig {
+
+}

@@ -1,0 +1,19 @@
+package com.dheerajpatel.main;
+
+import com.dheerajpatel.main.bean.Employee;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	ApplicationContext context = new AnnotationConfigApplicationContext(SpringConfig.class);
+
+		Employee employee = (Employee) context.getBean("createEmp");
+
+		System.out.println(employee);
+    }
+}
