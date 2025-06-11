@@ -7,7 +7,7 @@ import com.dheerajpatel.main.bean.Employee;
 import com.dheerajpatel.main.config.SpringConfig;
 
 
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
